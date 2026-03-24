@@ -25,7 +25,7 @@ SketchUp · Rhino · AutoCAD  · 3ds Max · Lumion · D5 Render · Enscape · Ph
 1. 点击右侧 **Releases**，下载 `DesignCleaner.exe`
 2. 双击运行即可，无需安装
 
-点击下方链接下载
+点击链接下载
 https://github.com/luoali/design-cleaner/releases/tag/v1.0
 
 ### 方式二：运行源码（需要 Python 环境）
